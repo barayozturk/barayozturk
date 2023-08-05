@@ -1,5 +1,5 @@
 # 💫 About Me:
-I studied at Adana Science and Technology<br>University, Department of Computer<br>Engineering. In 2021, I worked as a software<br>employee in the IT department of Adana<br>Ticaret Odasi for a period of 30 days. This<br>experience helped me get to know the<br>development processes, the role and<br>psychology of the developer engineer.
+I studied at Adana Science and TechnologyUniversity, Department of Computer Engineering. In 2021, I worked as a softwareemployee in the IT department of AdanaTicaret Odasi for a period of 30 days. Thisexperience helped me get to know thedevelopment processes, the role andpsychology of the developer engineer.
 
 
 ## 🌐 Socials:
