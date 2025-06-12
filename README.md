@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Baran 👋</h1>
+<h1 align="center">Hi there, I'm Baray 👋</h1>
 
 <p align="center">
   🚀 Software Engineer @ KAT Mekatronik <br/>
