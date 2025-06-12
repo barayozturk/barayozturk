@@ -61,9 +61,4 @@ With the same dedication, I am eager to contribute to innovative teams and bring
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barayozturk&theme=dark&hide_border=true&layout=compact" alt="top langs"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=barayozturk&icon=0&color=6" alt="visit counter"/>
-</p>
 
